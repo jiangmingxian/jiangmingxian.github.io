@@ -1,8 +1,10 @@
 ---
 title: "Hugo快速入门"
-summary: "进来看看吧..."
+# summary: "..."
 date: 2024-04-29T17:13:23+08:00
 draft: false
+tags:
+- 建站
 ---
 
 https://gohugo.io/documentation/
